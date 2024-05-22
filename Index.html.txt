@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meine persönliche Webseite</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; color: #333; background-color: #fff; }
+        header, nav, section, footer { padding: 20px; text-align: center; }
+        nav { background: #f0f0f0; }
+        nav a { text-decoration: none; color: #333; margin: 0 15px; }
+        footer { background: #ddd; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Willkommen auf meiner Webseite</h1>
+        <p>Investieren mit Herz und Verstand.</p>
+    </header>
+    <nav>
+        <a href="#ueber">Über Uns</a>
+        <a href="#dienstleistungen">Dienstleistungen</a>
+        <a href="#kontakt">Kontakt</a>
+    </nav>
+    <section id="ueber">
+        <h2>Über Mich</h2>
+        <p>Details zu Ihrer beruflichen Laufbahn und Ihren Erfolgen.</p>
+    </section>
+    <section id="dienstleistungen">
+        <h2>Unsere Dienstleistungen</h2>
+        <p>Wie wir Unternehmen unterstützen.</p>
+    </section>
+    <footer>
+        <h3>Kontakt</h3>
+        <p>Kontaktieren Sie mich unter [Ihre E-Mail-Adresse]</p>
+    </footer>
+</body>
+</html>
